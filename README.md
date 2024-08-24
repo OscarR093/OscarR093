@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+
+
 <h1 align="center">Hi 👋, I'm Oscar Rosales</h1>
 <h3 align="center">A junior fullstack developer</h3>
 
